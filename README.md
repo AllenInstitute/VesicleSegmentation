@@ -8,8 +8,11 @@ Objectives:
 The repository includes:
 
 Source code of Mask R-CNN built on FPN and ResNet101.
+
 Training code for vesicle segmentation
+
 Jupyter notebooks to visualize the detection pipeline at every step
+
 Evaluation on MS COCO metrics (AP)
 
 
