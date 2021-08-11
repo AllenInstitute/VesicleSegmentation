@@ -1,8 +1,17 @@
+
 ### Vesicle Segmentation
 
 Objectives:
  - Segment vesicles in axon by implementing Mask RCNN neural net. 
  - Classify vesicles as inhibitoy, excitatory
+
+The repository includes:
+
+Source code of Mask R-CNN built on FPN and ResNet101.
+Training code for vesicle segmentation
+Jupyter notebooks to visualize the detection pipeline at every step
+Evaluation on MS COCO metrics (AP)
+
 
 ### Data
  - 
