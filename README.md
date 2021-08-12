@@ -32,7 +32,7 @@ pip install keras==2.1.0 opencv-python
 
 3. Install the `MRCNN` repository.  
 ```bash
-# can do this within any directory on local machine
+# should do this within any the VesicleSegmentation directory on local machine
 cd VesicleSegmentation
 git clone https://github.com/AllenInstitute/Mask_RCNN.git
 ```
