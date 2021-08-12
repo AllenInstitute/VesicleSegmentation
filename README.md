@@ -24,11 +24,9 @@ Evaluation on MS COCO metrics (AP)
 1. Navigate to the `MRCNN` folder with the `setup.py` file.
 2. Create the conda environment with the main dependencies.
 ```bash
-conda create -n 
-conda activate 
-conda install python=3.8
-pip install tensorflow scikit-learn jupyterlab
-pip install seaborn pandas 
+conda create --name rcnn --file requirements.txt
+conda activate rcnn
+pip install keras==2.1.0 opencv-python 
 
 ```
 3. Install the development version of this repository
