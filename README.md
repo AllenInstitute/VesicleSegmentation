@@ -21,7 +21,7 @@ Evaluation on MS COCO metrics (AP)
 
 ### Environment
 
-1. Navigate to the `MRCNN` folder with the `setup.py` file.
+1. Navigate to the `VesicleSegmentation` folder.
 2. Create the conda environment with the main dependencies.
 ```bash
 conda create --name rcnn --file requirements.txt
