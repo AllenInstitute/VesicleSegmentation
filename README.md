@@ -29,17 +29,12 @@ conda activate rcnn
 pip install keras==2.1.0 opencv-python 
 
 ```
-3. Install the development version of this repository
-```bash
-pip install.
-```
 
-4. Install the `MRCNN` repository.  
+3. Install the `MRCNN` repository.  
 ```bash
 # can do this within any directory on local machine
-git clone https://github.com/AllenInstitute/..
-cd MRCNN
-pip install.
+cd VesicleSegmentation
+git clone https://github.com/AllenInstitute/Mask_RCNN.git
 ```
 
 
