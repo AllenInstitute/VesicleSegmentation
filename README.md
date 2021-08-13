@@ -17,7 +17,10 @@ Evaluation on MS COCO metrics (AP)
 
 
 ### Data
- - 
+
+
+
+![](image/sample_mask.png)
 
 ### Environment
 
