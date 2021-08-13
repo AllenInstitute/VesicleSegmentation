@@ -37,5 +37,3 @@ cd VesicleSegmentation
 git clone https://github.com/AllenInstitute/Mask_RCNN.git
 ```
 
-
-### Additional repositories
