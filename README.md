@@ -22,7 +22,7 @@ The repository includes:
 - There are two classes : Vesicles and Mithochondria
 
 <img src="annotation_result.png" width="600" height="600">
-#![](annotation_result.png)
+
 
 ### Environment
 
