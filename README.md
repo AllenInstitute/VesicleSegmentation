@@ -18,7 +18,9 @@ Evaluation on MS COCO metrics (AP)
 
 ### Data
 
-![plot](https://github.com/AllenInstitute/VesicleSegmentation.git/image/sample_mask.png)
+
+
+![](image/sample_mask.png)
 
 ### Environment
 
