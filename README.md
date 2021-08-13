@@ -18,6 +18,7 @@ Evaluation on MS COCO metrics (AP)
 
 ### Data
 
+- Sample annotated data with vesicle's masks
 
 
 ![](image/sample_mask.png)
