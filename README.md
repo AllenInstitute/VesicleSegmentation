@@ -26,7 +26,7 @@ Evaluation on MS COCO metrics (AP)
 ```bash
 conda create --name rcnn --file requirements.txt
 conda activate rcnn
-pip install keras==2.1.0 opencv-python 
+pip install keras==2.1.0 opencv-python jupyterlab
 
 ```
 
@@ -37,5 +37,3 @@ cd VesicleSegmentation
 git clone https://github.com/AllenInstitute/Mask_RCNN.git
 ```
 
-
-### Additional repositories
