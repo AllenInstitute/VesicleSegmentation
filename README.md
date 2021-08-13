@@ -21,7 +21,7 @@ The repository includes:
 - Images are 250 * 250 pixels
 - There are two classes : Vesicles and Mithochondria
 
-![](annotation_result.png =250x250)
+![](annotation_result.png, (250x250))
 
 ### Environment
 
