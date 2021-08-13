@@ -19,7 +19,7 @@ The repository includes:
 
 - Sample annotated data with vesicle's masks
 - Images are 250 * 250 pixels
-- There are two classed of objects : Vesicles and Mithochondria
+- There are two classes : Vesicles and Mithochondria
 ![](image/sample_mask.png)
 
 ### Environment
