@@ -17,6 +17,9 @@ The repository includes:
 
 ### Data
 
+The data is from layer 2/3 of the mouse visual cortex. The dataset information can be found at the below link:
+[https://www.microns-explorer.org/]
+
 - Sample annotated data with vesicle's masks
 - Images are 250 * 250 pixels
 - There are two classes : Vesicles and Mithochondria
