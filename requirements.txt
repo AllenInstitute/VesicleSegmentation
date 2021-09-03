@@ -6,8 +6,14 @@ cython
 matplotlib
 scikit-image
 tensorflow-gpu==1.15.0
+<<<<<<< HEAD
 #keras==2.1.0
 #opencv-python
 h5py
+=======
+keras==2.1.0
+opencv-python
+h5py==2.9.0
+>>>>>>> 662eb7293978d2b8013811646f6154f18082fe5c
 imgaug
 IPython[all]
